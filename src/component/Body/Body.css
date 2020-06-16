@@ -1,0 +1,8 @@
+.card{
+    padding: 20px;
+    text-align: center;
+    background-color: antiquewhite;
+    margin: 5px;
+    width: 300px;
+    display: inline-block;
+}

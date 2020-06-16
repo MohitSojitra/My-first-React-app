@@ -1,0 +1,21 @@
+input{
+    margin-bottom: 20px;
+    padding: 10px;
+    border-radius: 5px;
+    width: 300px;
+}
+
+.Header{
+    /* border:  2px solid ; */
+    text-align: center;
+    font-weight: bold;
+  }
+
+  button{
+      margin-bottom: 20px;
+      background-color: purple;
+      color: white;
+      font-weight: bold;
+      padding: 10px;
+      border-radius: 5px;
+  }
