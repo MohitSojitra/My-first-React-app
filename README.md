@@ -1,7 +1,8 @@
 # Simple React App (It is My first React App)
 
 ## Descriptuion :
-    It is my first react app. in this app i was develope a single page. on this page you can add simple people and that people show in to the below list.
+    It is my first react app. in this app i was develope a single page.
+    on this page you can add simple people and that people show in to the below list.
 
 ## Available Scripts
 
